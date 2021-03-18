@@ -1,4 +1,4 @@
-### Hi there! I'm Skermiebro. I do stuff in JavaScript.
+### Hi there! I'm Skermiebro. I do stuff in JavaScript, HTML and CSS. I also dabble in WordPress.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=skermiebroTech&theme=algolia" />
