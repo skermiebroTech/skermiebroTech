@@ -1,4 +1,4 @@
-### Hi there! I'm theusaf. I do stuff in JavaScript.
+### Hi there! I'm Skermiebro. I do stuff in JavaScript.
 ![Skermiebros's github stats](https://github-readme-stats.vercel.app/api?username=skermiebroTech&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skermiebroTech&theme=algolia)
