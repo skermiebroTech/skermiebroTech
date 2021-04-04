@@ -1,5 +1,5 @@
 ### Hi there! I'm Skermiebro. I do stuff in JavaScript, HTML and CSS. 
-### I also dabble in WordPress.
+### I also dabble in WordPress. and stuff i guess
 
 [![Github Badge](https://img.shields.io/badge/-skermiebroTech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skermiebroTech/)](https://www.github.com/skermiebroTech/) ![Profile views](https://gpvc.arturio.dev/skermiebroTech)
 ![Website Badge](https://img.shields.io/badge/-website-grey?link=https://skermiebro.com&style=flat&logo=WordPress)
