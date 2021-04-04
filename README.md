@@ -2,7 +2,7 @@
 ### I also dabble in WordPress. and stuff i guess
 
 [![Github Badge](https://img.shields.io/badge/-skermiebroTech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skermiebroTech/)](https://www.github.com/skermiebroTech/) ![Profile views](https://gpvc.arturio.dev/skermiebroTech)
-![Website Badge](https://img.shields.io/badge/-website-grey?link=https://skermiebro.com&style=flat&logo=WordPress)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=skermiebroTech&theme=algolia" />
