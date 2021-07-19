@@ -10,8 +10,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skermiebroTech&theme=algolia" />
 </a>
-(https://github-readme-stats.vercel.app/api?username=skermiebrotech&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 <!--
 **skermiebroTech/skermiebroTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
