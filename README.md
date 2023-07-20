@@ -1,6 +1,6 @@
 ### Hi there! I'm Skermiebro. I do stuff in JavaScript, HTML and CSS. 
 ### I havnt used github in 2 years.
-#### oh wwait...
+#### oh wait...
 
 [![Github Badge](https://img.shields.io/badge/-skermiebroTech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skermiebroTech/)](https://www.github.com/skermiebroTech/) ![Profile views](https://gpvc.arturio.dev/skermiebroTech)
 
