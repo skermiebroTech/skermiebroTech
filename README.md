@@ -11,12 +11,13 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skermiebroTech&theme=blue-green" />
 
-###
+#### for more info click  
+<a href="https://www.youtube.com/watch?v=uKpxKWXGq7A" rel="nofollow noreferrer">here!</a>
 #### isn't this cool^^
 <!--
 **skermiebroTech/skermiebroTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
