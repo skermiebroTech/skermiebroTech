@@ -2,7 +2,7 @@
 ### I havnt used github in 2 years.
 #### oh wait...
 
-[![Github Badge](https://img.shields.io/badge/-skermiebroTech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skermiebroTech/)](https://www.github.com/skermiebroTech/) ![Profile views](https://gpvc.arturio.dev/skermiebroTech)
+[![Github Badge](https://img.shields.io/badge/-skermiebroTech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skermiebroTech/)](https://www.github.com/skermiebroTech/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
