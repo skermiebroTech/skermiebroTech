@@ -1,6 +1,5 @@
 ### Hi there! I'm Skermiebro. I do stuff in JavaScript, Applescript, C, Python, HTML and CSS. 
 
-[![Github Badge](https://img.shields.io/badge/-skermiebroTech-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skermiebroTech/)](https://www.github.com/skermiebroTech/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
